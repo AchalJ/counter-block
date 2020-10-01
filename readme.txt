@@ -1,4 +1,4 @@
-=== Counter ===
+=== Counter Block ===
 Contributors:      ibachal, mhimon
 Tags:              block, numbers counter, facts counter, stats
 Requires at least: 5.3.2

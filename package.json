@@ -1,0 +1,19 @@
+{
+	"name": "counter-block",
+	"version": "1.0.0",
+	"description": "Show off numbers or stats on your website using animated Counter block for Gutenberg.",
+	"author": "Achal Jain, Mahbub Hasan Imon",
+	"license": "GPL-2.0-or-later",
+	"main": "build/index.js",
+	"scripts": {
+		"build": "wp-scripts build",
+		"format:js": "wp-scripts format-js",
+		"lint:css": "wp-scripts lint-style",
+		"lint:js": "wp-scripts lint-js",
+		"start": "wp-scripts start",
+		"packages-update": "wp-scripts packages-update"
+	},
+	"devDependencies": {
+		"@wordpress/scripts": "^12.2.0"
+	}
+}
